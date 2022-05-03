@@ -23,6 +23,7 @@ on:
 jobs:
   build:
     runs-on: ubuntu-latest
+    environment: beta.convertigo.net
     steps:
     - name: Checkout code
       uses: actions/checkout@v2.4.0
