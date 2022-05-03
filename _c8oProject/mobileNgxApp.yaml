@@ -62,8 +62,9 @@ componentScriptContent:
         /*Begin_c8o_AppFunction*/
         	/*End_c8o_AppFunction*/
         '
-tplProjectName: mobilebuilder_tpl_8_0_0_ngx
+tplProjectName: MyProdApp
 ↓Menu [ngx.components.UIDynamicMenu-1500890597895]: 🗏 mobileMenus/Menu.yaml
+↓MyCustomButton [ngx.components.UISharedRegularComponent-1651568928198]: 🗏 mobileSharedComponents/MyCustomButton.yaml
 ↓Page [ngx.components.PageComponent-1500538678074]: 🗏 mobilePages/Page.yaml
 ↓Style [ngx.components.UIStyle-1491635462437]: 
   comment: You can add some global application styles here

@@ -54,8 +54,10 @@ title: First page
   beanData: '{"ionBean":"Content"}'
   comment: Page content
   tagName: ion-content
-  ↓UseSharedComponent [ngx.components.UIUseShared-1651567948737]: 
-    sharedcomponent: lib_ExtendedComponents_ui_ngx.MobileApplication.Application.agGrid
+  ↓UseSharedComponent [ngx.components.UIUseShared-1651568966050]: 
+    sharedcomponent: MyProdApp.Application.NgxApp.MyCustomButton
+  ↓UseSharedComponent1 [ngx.components.UIUseShared-1651569581469]: 
+    sharedcomponent: lib_ExtendedComponents_ui_ngx.MobileApplication.Application.ngxTagInput
 ↓Footer [ngx.components.UIDynamicElement-1491634242460]: 
   beanData: '{"ionBean":"Footer"}'
   comment: Page footer

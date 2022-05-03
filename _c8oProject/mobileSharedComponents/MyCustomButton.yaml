@@ -1,0 +1,12 @@
+↓Button [ngx.components.UIDynamicElement-1651568945067]: 
+  beanData: '{"ionBean":"Button"}'
+  tagName: ion-button
+  ↓Label [ngx.components.UIDynamicElement-1651568945069]: 
+    beanData: '{"ionBean":"Label"}'
+    tagName: ion-label
+    ↓Text [ngx.components.UIText-1651568945071]: 
+      textValue: 
+        - xmlizable: 
+          - ↑classname: com.twinsoft.convertigo.beans.ngx.components.MobileSmartSourceType
+          - MobileSmartSourceType: plain:from shared component
+  ↓Event [ngx.components.UIControlEvent-1651568945073]: 
